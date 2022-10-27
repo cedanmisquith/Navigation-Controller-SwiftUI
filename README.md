@@ -1,5 +1,5 @@
 # Navigation-Controller-SwiftUI
-A simple example demonstrating the PUSH &amp; POP functionality of a navigation controller from UIKit developed with SwiftUI
+A simple example demonstrating the PUSH &amp; POP like behaviour of a navigation controller from UIKit developed with SwiftUI
 
 # Demo
 
